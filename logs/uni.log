@@ -1,0 +1,39 @@
+SOL M=2 : 3 3
+DONE mode=uni sign=-1 K=2 nodes=2 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=uni sign=-1 K=2 t=0s
+DONE mode=uni sign=-1 K=3 nodes=4 terminal=1 cands=1 sols=0 skiplo=0 caphi=0
+mode=uni sign=-1 K=3 t=0s
+SOL M=5 : 3 3 3 3
+DONE mode=uni sign=-1 K=4 nodes=14 terminal=5 cands=10 sols=1 skiplo=0 caphi=0
+mode=uni sign=-1 K=4 t=0s
+SOL M=2 : 5 5 9 9 89
+DONE mode=uni sign=-1 K=5 nodes=44 terminal=19 cands=54 sols=1 skiplo=0 caphi=0
+mode=uni sign=-1 K=5 t=0s
+SOL M=4 : 3 3 5 5 9 89
+DONE mode=uni sign=-1 K=6 nodes=193 terminal=122 cands=4350 sols=1 skiplo=0 caphi=0
+mode=uni sign=-1 K=6 t=0s
+SOL M=8 : 3 3 3 3 5 5 89
+DONE mode=uni sign=-1 K=7 nodes=9242 terminal=8929 cands=114411239 sols=1 skiplo=0 caphi=0
+mode=uni sign=-1 K=7 t=1262s
+SOL M=2 : 3 5
+DONE mode=uni sign=1 K=2 nodes=2 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=uni sign=1 K=2 t=0s
+SOL M=2 : 3 5 17
+DONE mode=uni sign=1 K=3 nodes=4 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=uni sign=1 K=3 t=0s
+SOL M=2 : 3 5 17 257
+SOL M=2 : 5 5 5 43
+DONE mode=uni sign=1 K=4 nodes=14 terminal=5 cands=10 sols=2 skiplo=0 caphi=0
+mode=uni sign=1 K=4 t=0s
+SOL M=2 : 3 5 17 257 65537
+SOL M=2 : 3 5 17 353 929
+SOL M=2 : 3 9 9 23 131
+DONE mode=uni sign=1 K=5 nodes=44 terminal=19 cands=54 sols=3 skiplo=0 caphi=0
+mode=uni sign=1 K=5 t=0s
+SOL M=2 : 3 5 17 353 929 83623937
+SOL M=2 : 3 11 11 11 677 3659
+SOL M=2 : 5 5 5 43 5413 786349
+SOL M=2 : 5 7 7 13 13 619
+SOL M=4 : 3 3 3 9 23 131
+DONE mode=uni sign=1 K=6 nodes=193 terminal=122 cands=4350 sols=5 skiplo=0 caphi=0
+mode=uni sign=1 K=6 t=0s
