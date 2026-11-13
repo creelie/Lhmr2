@@ -1,0 +1,80 @@
+mode=U eps=-1 K=2 nodes=2 terminal=1 skipped=0 time=0.9s
+  SOL M=2 : 3 3
+mode=U eps=-1 K=3 nodes=4 terminal=1 skipped=0 time=0.8s
+mode=U eps=-1 K=4 nodes=14 terminal=5 skipped=0 time=1.8s
+  SOL M=5 : 3 3 3 3
+mode=U eps=-1 K=5 nodes=44 terminal=19 skipped=0 time=1.6s
+  SOL M=2 : 5 5 9 9 89
+mode=U eps=-1 K=6 nodes=193 terminal=122 skipped=0 time=4.7s
+  SOL M=4 : 3 3 5 5 9 89
+mode=U eps=1 K=2 nodes=2 terminal=1 skipped=0 time=0.9s
+  SOL M=2 : 3 5
+mode=U eps=1 K=3 nodes=4 terminal=1 skipped=0 time=1.0s
+  SOL M=2 : 3 5 17
+mode=U eps=1 K=4 nodes=14 terminal=5 skipped=0 time=1.9s
+  SOL M=2 : 3 5 17 257
+  SOL M=2 : 5 5 5 43
+mode=U eps=1 K=5 nodes=44 terminal=19 skipped=0 time=2.0s
+  SOL M=2 : 3 5 17 257 65537
+  SOL M=2 : 3 5 17 353 929
+  SOL M=2 : 3 9 9 23 131
+mode=U eps=1 K=6 nodes=193 terminal=122 skipped=0 time=5.1s
+  SOL M=2 : 3 5 17 353 929 83623937
+  SOL M=2 : 3 11 11 11 677 3659
+  SOL M=2 : 5 5 5 43 5413 786349
+  SOL M=2 : 5 7 7 13 13 619
+  SOL M=4 : 3 3 3 9 23 131
+mode=Q eps=-1 K=2 nodes=2 terminal=1 skipped=0 time=1.2s
+  SOL M=2 : 3 3
+mode=Q eps=-1 K=3 nodes=4 terminal=1 skipped=0 time=1.0s
+mode=Q eps=-1 K=4 nodes=13 terminal=4 skipped=0 time=1.0s
+mode=Q eps=-1 K=5 nodes=32 terminal=8 skipped=0 time=1.8s
+mode=Q eps=-1 K=6 nodes=116 terminal=63 skipped=0 time=5.5s
+mode=Q eps=1 K=2 nodes=2 terminal=1 skipped=0 time=1.1s
+  SOL M=2 : 3 5
+mode=Q eps=1 K=3 nodes=4 terminal=1 skipped=0 time=1.4s
+  SOL M=2 : 3 5 17
+mode=Q eps=1 K=4 nodes=13 terminal=4 skipped=0 time=1.5s
+  SOL M=2 : 3 5 17 257
+mode=Q eps=1 K=5 nodes=32 terminal=8 skipped=0 time=2.6s
+  SOL M=2 : 3 5 17 257 65537
+  SOL M=2 : 3 5 17 353 929
+mode=Q eps=1 K=6 nodes=116 terminal=63 skipped=0 time=5.7s
+  SOL M=2 : 3 5 17 353 929 83623937
+  SOL M=2 : 5 7 7 13 13 619
+mode=G eps=-1 K=2 nodes=2 terminal=1 skipped=0 time=1.0s
+mode=G eps=-1 K=3 nodes=3 terminal=0 skipped=0 time=1.6s
+mode=G eps=-1 K=4 nodes=7 terminal=1 skipped=0 time=1.4s
+mode=G eps=-1 K=5 nodes=13 terminal=1 skipped=0 time=1.6s
+mode=G eps=-1 K=6 nodes=22 terminal=3 skipped=0 time=1.9s
+mode=G eps=1 K=2 nodes=2 terminal=1 skipped=0 time=1.4s
+mode=G eps=1 K=3 nodes=3 terminal=0 skipped=0 time=1.4s
+mode=G eps=1 K=4 nodes=7 terminal=1 skipped=0 time=1.1s
+mode=G eps=1 K=5 nodes=13 terminal=1 skipped=0 time=2.1s
+mode=G eps=1 K=6 nodes=22 terminal=3 skipped=0 time=1.9s
+mode=E eps=-1 K=2 nodes=2 terminal=1 skipped=0 time=1.1s
+mode=E eps=-1 K=3 nodes=4 terminal=1 skipped=0 time=1.0s
+mode=E eps=-1 K=4 nodes=8 terminal=0 skipped=0 time=0.8s
+mode=E eps=-1 K=5 nodes=13 terminal=0 skipped=0 time=1.2s
+mode=E eps=-1 K=6 nodes=20 terminal=0 skipped=0 time=0.9s
+mode=E eps=1 K=2 nodes=2 terminal=1 skipped=0 time=1.1s
+mode=E eps=1 K=3 nodes=4 terminal=1 skipped=0 time=1.0s
+mode=E eps=1 K=4 nodes=8 terminal=0 skipped=0 time=0.9s
+mode=E eps=1 K=5 nodes=13 terminal=0 skipped=0 time=0.8s
+mode=E eps=1 K=6 nodes=20 terminal=0 skipped=0 time=1.0s
+mode=Z eps=-1 K=2 nodes=2 terminal=1 skipped=0 time=1.0s
+mode=Z eps=-1 K=3 nodes=4 terminal=1 skipped=0 time=0.9s
+mode=Z eps=-1 K=4 nodes=10 terminal=1 skipped=0 time=0.8s
+mode=Z eps=-1 K=5 nodes=20 terminal=3 skipped=0 time=0.8s
+mode=Z eps=-1 K=6 nodes=78 terminal=44 skipped=0 time=3.3s
+mode=Z eps=1 K=2 nodes=2 terminal=1 skipped=0 time=1.0s
+  SOL M=2 : 3 5
+mode=Z eps=1 K=3 nodes=4 terminal=1 skipped=0 time=1.0s
+  SOL M=2 : 3 5 17
+mode=Z eps=1 K=4 nodes=10 terminal=1 skipped=0 time=1.0s
+  SOL M=2 : 3 5 17 257
+mode=Z eps=1 K=5 nodes=20 terminal=3 skipped=0 time=1.0s
+  SOL M=2 : 3 5 17 257 65537
+  SOL M=2 : 3 5 17 353 929
+mode=Z eps=1 K=6 nodes=78 terminal=44 skipped=0 time=3.1s
+  SOL M=2 : 3 5 17 353 929 83623937

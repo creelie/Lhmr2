@@ -1,0 +1,1 @@
+Code, data and paper for "Lehmer's Totient Problem for Ideals of Dedekind Domains" by Deep Bhattacharjee: C/GMP and Julia searches, Lean 4 certificate (381 theorems), Python binary classification, complete search logs and figure script.

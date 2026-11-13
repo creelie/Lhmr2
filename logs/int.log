@@ -1,0 +1,44 @@
+DONE mode=int sign=-1 K=2 nodes=2 terminal=1 cands=1 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=2 t=0s
+DONE mode=int sign=-1 K=3 nodes=4 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=3 t=0s
+DONE mode=int sign=-1 K=4 nodes=9 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=4 t=0s
+DONE mode=int sign=-1 K=5 nodes=15 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=5 t=0s
+DONE mode=int sign=-1 K=6 nodes=24 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=6 t=0s
+DONE mode=int sign=-1 K=7 nodes=39 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=7 t=0s
+DONE mode=int sign=-1 K=8 nodes=64 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=8 t=0s
+DONE mode=int sign=-1 K=9 nodes=101 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=9 t=0s
+DONE mode=int sign=-1 K=10 nodes=147 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=10 t=0s
+DONE mode=int sign=-1 K=11 nodes=231 terminal=7 cands=17 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=11 t=1s
+DONE mode=int sign=-1 K=12 nodes=426 terminal=63 cands=217 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=12 t=0s
+DONE mode=int sign=-1 K=13 nodes=1446 terminal=730 cands=11936 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=13 t=0s
+DONE mode=int sign=-1 K=14 nodes=32489 terminal=29631 cands=15922545 sols=0 skiplo=0 caphi=0
+mode=int sign=-1 K=14 t=122s
+SOL M=2 : 3 5
+DONE mode=int sign=1 K=2 nodes=2 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=int sign=1 K=2 t=0s
+SOL M=2 : 3 5 17
+DONE mode=int sign=1 K=3 nodes=4 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=int sign=1 K=3 t=1s
+SOL M=2 : 3 5 17 257
+DONE mode=int sign=1 K=4 nodes=10 terminal=1 cands=3 sols=1 skiplo=0 caphi=0
+mode=int sign=1 K=4 t=0s
+SOL M=2 : 3 5 17 257 65537
+SOL M=2 : 3 5 17 353 929
+DONE mode=int sign=1 K=5 nodes=20 terminal=3 cands=22 sols=2 skiplo=0 caphi=0
+mode=int sign=1 K=5 t=0s
+SOL M=2 : 3 5 17 353 929 83623937
+DONE mode=int sign=1 K=6 nodes=77 terminal=44 cands=3344 sols=1 skiplo=0 caphi=0
+mode=int sign=1 K=6 t=0s
+DONE mode=int sign=1 K=7 nodes=6943 terminal=6826 cands=112850405 sols=0 skiplo=0 caphi=0
+mode=int sign=1 K=7 t=1230s

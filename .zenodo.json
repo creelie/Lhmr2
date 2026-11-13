@@ -1,0 +1,8 @@
+{
+  "title": "Lehmer's Totient Problem for Ideals of Dedekind Domains: code and data",
+  "upload_type": "software",
+  "creators": [{"name": "Bhattacharjee, Deep", "orcid": "0000-0003-0466-750X"}],
+  "description": "C/GMP and Julia searches, Lean 4 certificate, Python binary classification, search logs and figure script for the paper \"Lehmer's Totient Problem for Ideals of Dedekind Domains\".",
+  "license": "MIT",
+  "keywords": ["Lehmer's totient problem", "Dedekind domains", "Euler function of ideals", "Lean 4"]
+}

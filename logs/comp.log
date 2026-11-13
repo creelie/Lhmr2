@@ -1,0 +1,44 @@
+SOL M=2 : 3 5
+DONE mode=quad sign=1 K=2 nodes=2 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=quad sign=1 K=2 t=1s
+SOL M=2 : 3 5 17
+DONE mode=quad sign=1 K=3 nodes=4 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=quad sign=1 K=3 t=0s
+SOL M=2 : 3 5 17 257
+DONE mode=quad sign=1 K=4 nodes=13 terminal=4 cands=4 sols=1 skiplo=0 caphi=0
+mode=quad sign=1 K=4 t=0s
+SOL M=2 : 3 5 17 257 65537
+SOL M=2 : 3 5 17 353 929
+DONE mode=quad sign=1 K=5 nodes=32 terminal=8 cands=27 sols=2 skiplo=0 caphi=0
+mode=quad sign=1 K=5 t=0s
+SOL M=2 : 3 5 17 353 929 83623937
+SOL M=2 : 5 7 7 13 13 619
+DONE mode=quad sign=1 K=6 nodes=116 terminal=63 cands=3409 sols=2 skiplo=0 caphi=0
+mode=quad sign=1 K=6 t=1s
+SOL M=2 : 5 7 7 13 13 619 25629697
+DONE mode=quad sign=1 K=7 nodes=7159 terminal=6976 cands=112856127 sols=1 skiplo=0 caphi=0
+mode=quad sign=1 K=7 t=1337s
+DONE mode=gauss sign=1 K=2 nodes=2 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=1 K=2 t=0s
+DONE mode=gauss sign=1 K=3 nodes=3 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=1 K=3 t=1s
+DONE mode=gauss sign=1 K=4 nodes=7 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=1 K=4 t=0s
+DONE mode=gauss sign=1 K=5 nodes=13 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=1 K=5 t=0s
+DONE mode=gauss sign=1 K=6 nodes=22 terminal=3 cands=4 sols=0 skiplo=0 caphi=0
+mode=gauss sign=1 K=6 t=0s
+DONE mode=gauss sign=1 K=7 nodes=41 terminal=6 cands=11 sols=0 skiplo=0 caphi=0
+mode=gauss sign=1 K=7 t=0s
+DONE mode=eis sign=1 K=2 nodes=2 terminal=1 cands=1 sols=0 skiplo=0 caphi=0
+mode=eis sign=1 K=2 t=0s
+DONE mode=eis sign=1 K=3 nodes=4 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=1 K=3 t=0s
+DONE mode=eis sign=1 K=4 nodes=8 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=1 K=4 t=0s
+DONE mode=eis sign=1 K=5 nodes=13 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=1 K=5 t=0s
+DONE mode=eis sign=1 K=6 nodes=20 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=1 K=6 t=0s
+DONE mode=eis sign=1 K=7 nodes=32 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=1 K=7 t=0s

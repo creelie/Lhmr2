@@ -1,0 +1,18 @@
+DONE mode=gauss sign=-1 K=2 nodes=2 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=2 t=0s
+DONE mode=gauss sign=-1 K=3 nodes=3 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=3 t=0s
+DONE mode=gauss sign=-1 K=4 nodes=7 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=4 t=0s
+DONE mode=gauss sign=-1 K=5 nodes=13 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=5 t=0s
+DONE mode=gauss sign=-1 K=6 nodes=22 terminal=3 cands=4 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=6 t=0s
+DONE mode=gauss sign=-1 K=7 nodes=41 terminal=6 cands=11 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=7 t=0s
+DONE mode=gauss sign=-1 K=8 nodes=87 terminal=29 cands=120 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=8 t=0s
+DONE mode=gauss sign=-1 K=9 nodes=402 terminal=270 cands=7078 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=9 t=1s
+DONE mode=gauss sign=-1 K=10 nodes=16230 terminal=15587 cands=20159732 sols=0 skiplo=0 caphi=0
+mode=gauss sign=-1 K=10 t=426s

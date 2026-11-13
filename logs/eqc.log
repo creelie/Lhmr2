@@ -1,0 +1,39 @@
+DONE mode=eis sign=-1 K=2 nodes=2 terminal=1 cands=1 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=2 t=0s
+DONE mode=eis sign=-1 K=3 nodes=4 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=3 t=0s
+DONE mode=eis sign=-1 K=4 nodes=8 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=4 t=0s
+DONE mode=eis sign=-1 K=5 nodes=13 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=5 t=0s
+DONE mode=eis sign=-1 K=6 nodes=20 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=6 t=0s
+DONE mode=eis sign=-1 K=7 nodes=32 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=7 t=0s
+DONE mode=eis sign=-1 K=8 nodes=49 terminal=0 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=8 t=0s
+DONE mode=eis sign=-1 K=9 nodes=80 terminal=1 cands=0 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=9 t=1s
+DONE mode=eis sign=-1 K=10 nodes=119 terminal=2 cands=2 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=10 t=0s
+DONE mode=eis sign=-1 K=11 nodes=195 terminal=4 cands=7 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=11 t=0s
+DONE mode=eis sign=-1 K=12 nodes=332 terminal=32 cands=104 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=12 t=0s
+DONE mode=eis sign=-1 K=13 nodes=856 terminal=316 cands=2943 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=13 t=0s
+DONE mode=eis sign=-1 K=14 nodes=8517 terminal=7024 cands=1655269 sols=0 skiplo=0 caphi=0
+mode=eis sign=-1 K=14 t=16s
+SOL M=2 : 3 3
+DONE mode=quad sign=-1 K=2 nodes=2 terminal=1 cands=1 sols=1 skiplo=0 caphi=0
+mode=quad sign=-1 K=2 t=0s
+DONE mode=quad sign=-1 K=3 nodes=4 terminal=1 cands=1 sols=0 skiplo=0 caphi=0
+mode=quad sign=-1 K=3 t=0s
+DONE mode=quad sign=-1 K=4 nodes=13 terminal=4 cands=4 sols=0 skiplo=0 caphi=0
+mode=quad sign=-1 K=4 t=0s
+DONE mode=quad sign=-1 K=5 nodes=32 terminal=8 cands=27 sols=0 skiplo=0 caphi=0
+mode=quad sign=-1 K=5 t=0s
+DONE mode=quad sign=-1 K=6 nodes=116 terminal=63 cands=3409 sols=0 skiplo=0 caphi=0
+mode=quad sign=-1 K=6 t=0s
+DONE mode=quad sign=-1 K=7 nodes=7159 terminal=6976 cands=112856127 sols=0 skiplo=0 caphi=0
+mode=quad sign=-1 K=7 t=1258s

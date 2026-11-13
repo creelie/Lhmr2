@@ -1,0 +1,17 @@
+name: release
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag
+        required: true
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "${{ inputs.tag }}" --target "${{ github.sha }}" --title "Lehmer's Totient Problem for Ideals of Dedekind Domains ${{ inputs.tag }}" --notes-file .github/RELEASE_NOTES.md paper/LehmerPaper.pdf
